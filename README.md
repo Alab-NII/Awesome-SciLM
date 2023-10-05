@@ -2,11 +2,11 @@
 
 ## Content
 - [Related survey papers](https://github.com/Alab-NII/Awesome-SciLM/tree/main#related-survey-papers)
-- Existing SciLMs
-  - Bio SciLMs
-  - Chemical SciLMs
-  - Multi-domain SciLMs
-  - Other domains SciLMs
+- [Existing SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#existing-scilms)
+  - [Bio SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#bio-scilms)
+  - [Chemical SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#chemical-scilms)
+  - [Multi-domain SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#multi-domain-scilms)
+  - [Other domains SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#other-domains-scilms)
 - Awesome scientific datasets
 
 ## Related survey papers
