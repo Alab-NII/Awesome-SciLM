@@ -24,6 +24,21 @@
 
 
 ### Chemical SciLMs
+No. | Year | Name | Base-model | Objective | #Parameters | Code
+|---|---| --- |---|---| --- |--- |
+1 | 2020/03 | NukeBERT | BERT | MLM, NSP | 110M | Github
+2 | 2020/10 | ChemBERTa | RoBERTa | MLM | 125M | Github
+3 | 2021/05 | NukeLM | SciBERT, RoBERTa | MLM | 125M, 355M, 110M | Github
+4 | 2021/06 | ChemBERT | RoBERTa | MLM | 110M | Github
+5 | 2021/09 | MatSciBERT | BERT | MLM | 110M | Github
+6 | 2021/10 | MatBERT | BERT | MLM | 110M | Github
+7 | 2022/05 | BatteryBERT | BERT, SciBERT | MLM | 110M | Github
+8 | 2022/05 | ChemGPT | GPT | Autoregressive Language Model | 1B | Github
+9 | 2022/08 | MaterialsBERT (Shetty) | PubMedBERT | MLM, NSP, Whole-Word Masking | 110M | Github
+10 | 2022/08 | ProcessBERT | BERT | MLM, NSP | 110M | Github
+11 | 2022/09 | ChemBERTa-2 | RoBERTa | MLM, Multi-task Regression | 125M | Github
+12 | 2022/09 | MaterialBERT (Yoshitake) | BERT | MLM, NSP | 110M | Github
+13 | 2023/08 | GIT-Mol | GIT-Former | Xmodal-Text Matching, Xmodal-Text Contrastive Learning | 700M | Github
 
 
 ### Multi-domain SciLMs
