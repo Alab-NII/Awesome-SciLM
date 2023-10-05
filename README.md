@@ -36,11 +36,7 @@ No. | Year | Name | Base-model | Objective | #Parameters
 5 | 2022/06 | SciDEBERTa | DeBERTa | MLM | N/A
 6 | 2022/09 | CSL-T5 | T5 | Fill-in-the-blank-style denoising objective | 220M
 7 | 2022/10 | AcademicRoBERTa | RoBERTa | MLM | 125M
-8 | 2022/11 | Galactica | GPT | Autoregressive Language Model | "125M
-1.3B
-6.7B
-30B
-120B"
+8 | 2022/11 | Galactica | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B
 9 | 2022/11 | VarMAE | RoBERTa | MLM | 110M
 10 | 2023/05 | Patton | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A
 
