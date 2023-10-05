@@ -23,7 +23,7 @@
 ### Bio SciLMs
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
-1 | 2019/01 | BioBERT | BERT | MLM, NSP | 110M | Github
+1 | 2019/01 | [BioBERT](https://arxiv.org/abs/1901.08746) | BERT | MLM, NSP | 110M | [Github](https://github.com/dmis-lab/biobert)
 2 | 2019/02 | BERT-MIMIC | BERT | MLM, NSP | 110M, 340M | Github
 3 | 2019/04 | BioELMo | ELMo | Bi-LM | 93.6M | Github
 4 | 2019/04 | Clinical BERT (Emily) | BERT | MLM, NSP | 110M | Github
