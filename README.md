@@ -27,18 +27,18 @@
 
 
 ### Multi-domain SciLMs
-No. | Year | Name | Base-model | Objective | #Parameters
-|---|---| --- |---|---| --- |
-1 | 2019/11 | S2ORC-SciBERT | BERT | MLM, NSP | 110M
-2 | 2020/04 | SPECTER | BERT | Triple-loss | 110M
-3 | 2021/03 | OAG-BERT | BERT | MLM | 110M
-4 | 2022/05 | ScholarBERT | BERT | MLM | 770M
-5 | 2022/06 | SciDEBERTa | DeBERTa | MLM | N/A
-6 | 2022/09 | CSL-T5 | T5 | Fill-in-the-blank-style denoising objective | 220M
-7 | 2022/10 | AcademicRoBERTa | RoBERTa | MLM | 125M
-8 | 2022/11 | Galactica | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B
-9 | 2022/11 | VarMAE | RoBERTa | MLM | 110M
-10 | 2023/05 | Patton | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A
+No. | Year | Name | Base-model | Objective | #Parameters | Code
+|---|---| --- |---|---| --- |--- |
+1 | 2019/11 | S2ORC-SciBERT | BERT | MLM, NSP | 110M | Github
+2 | 2020/04 | SPECTER | BERT | Triple-loss | 110M | Github
+3 | 2021/03 | OAG-BERT | BERT | MLM | 110M | Github
+4 | 2022/05 | ScholarBERT | BERT | MLM | 770M | Github
+5 | 2022/06 | SciDEBERTa | DeBERTa | MLM | N/A | Github
+6 | 2022/09 | CSL-T5 | T5 | Fill-in-the-blank-style denoising objective | 220M | Github
+7 | 2022/10 | AcademicRoBERTa | RoBERTa | MLM | 125M | Github
+8 | 2022/11 | Galactica | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B | Github
+9 | 2022/11 | VarMAE | RoBERTa | MLM | 110M | Github
+10 | 2023/05 | Patton | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | Github
 
 ### Other domains SciLMs
   
