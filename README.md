@@ -21,6 +21,92 @@
 ## Existing SciLMs
 
 ### Bio SciLMs
+No. | Year | Name | Base-model | Objective | #Parameters | Code
+|---|---| --- |---|---| --- |--- |
+1 | 2019/01 | BioBERT | BERT | MLM, NSP | 110M | Github
+2 | 2019/02 | BERT-MIMIC | BERT | MLM, NSP | 110M, 340M | Github
+3 | 2019/04 | BioELMo | ELMo | Bi-LM | 93.6M | Github
+4 | 2019/04 | Clinical BERT (Emily) | BERT | MLM, NSP | 110M | Github
+5 | 2019/04 | ClinicalBERT (Kexin) | BERT | MLM, NSP | 110M | Github
+6 | 2019/06 | BlueBERT | BERT | MLM, NSP | 110M, 340M | Github
+7 | 2019/06 | G-BERT | GNN + BERT | Self-Prediction, Dual-Prediction | 3M | Github
+8 | 2019/07 | BEHRT | BERT | MLM, NSP | N/A | Github
+9 | 2019/08 | BioFLAIR | FLAIR | Bi-LM | N/A | Github
+10 | 2019/09 | EhrBERT | BERT | MLM, NSP | 110M | Github
+11 | 2019/12 | Clinical XLNet | XLNet | Generalized Autoregressive Pretraining | 110M | Github
+12 | 2020/04 | GreenBioBERT | BERT | CBOW Word2Vec, Word Vector Space Alignment | 110M | Github
+13 | 2020/05 | BERT-XML | BERT | MLM, NSP | N/A | Github
+14 | 2020/05 | Bio-ELECTRA | ELECTRA | Replaced Token Prediction | 14M | Github
+15 | 2020/05 | Med-BERT | BERT | MLM, Prolonged LOS Prediction | 110M | Github
+16 | 2020/05 | ouBioBERT | BERT | MLM, NSP | 110M | Github
+17 | 2020/07 | PubMedBERT | BERT | MLM, NSP, Whole-Word Masking | 110M | Github
+18 | 2020/08 | MCBERT | BERT | MLM, NSP | 110M, 340M | Github
+19 | 2020/09 | BioALBERT | ALBERT | MLM, SOP | 12M, 18M | Github
+20 | 2020/09 | BRLTM | BERT | MLM | N/A | Github
+21 | 2020/10 | BioMegatron | Megatron | MLM, NSP | 345M, 800M, 1.2B | Github
+22 | 2020/10 | CharacterBERT | BERT + Character-CNN | MLM, NSP | 105M | Github
+23 | 2020/10 | ClinicalTransformer | BERT - ALBERT - RoBERTa - ELECTRA | MLM, NSP - MLM, SOP - MLM - Replaced Token Prediction | 110M - 12M - 125M - 110M | Github
+24 | 2020/10 | SapBERT | BERT | Multi-Similarity Loss | 110M | Github
+25 | 2020/10 | UmlsBERT | BERT | MLM | 110M | Github
+26 | 2020/11 | bert-for-radiology | BERT | MLM, NSP | 110M | Github
+27 | 2020/11 | Bio-LM | RoBERTa | MLM | 125M, 355M | Github
+28 | 2020/11 | CODER | PubMedBERT - mBERT | Contrastive Learning | 110M - 110M | Github
+29 | 2020/11 | exBERT | BERT | MLM, NSP | N/A | Github
+30 | 2020/12 | BioMedBERT | BERT | MLM, NSP | 340M | Github
+31 | 2020/12 | LBERT | BERT | MLM, NSP | 110M | Github
+32 | 2021/04 | CovidBERT | BioBERT | MLM, NSP | 110M | Github
+33 | 2021/04 | ELECTRAMed | ELECTRA | Replaced Token Prediction | N/A | Github
+34 | 2021/04 | KeBioLM | PubMedBERT | MLM, Entity Detection, Entity Linking | 110M | Github
+35 | 2021/04 | SINA-BERT | BERT | MLM | 110M | Github
+36 | 2021/05 | ProteinBERT | BERT | Corrupted Token, Annotation Prediction | 16M | Github
+37 | 2021/05 | SciFive | T5 | Span Corruption Prediction | 220M, 770M | Github
+38 | 2021/06 | BioELECTRA | ELECTRA | Replaced Token Prediction | 110M | Github
+39 | 2021/06 | EntityBERT | BERT | Entity-centric MLM | 110M | Github
+40 | 2021/07 | MedGPT | GPT-2 + GLU + RotaryEmbed | LM | N/A | Github
+41 | 2021/08 | SMedBERT | SMedBERT | Masked Neighbor Modeling, Masked Mention Modeling, SOP, MLM | N/A | Github
+42 | 2021/09 | Bio-cli | RoBERTa | MLM, Subword Masking or Whole Word Masking | 125M | Github
+43 | 2021/11 | UTH-BERT | BERT | MLM, NSP | 110M | Github
+44 | 2021/12 | ChestXRayBERT | BERT | MLM, NSP | 110M | Github
+45 | 2021/12 | MedRoBERTa.nl | RoBERTa | MLM | 123M | Github
+46 | 2021/12 | PubMedELECTRA | ELECTRA | Replaced Token Prediction | 110M, 335M | Github
+47 | 2022/01 | Clinical-BigBird | BigBird | MLM | 166M | Github
+48 | 2022/01 | Clinical-Longformer | Longformer | MLM | 149M | Github
+49 | 2022/03 | BioLinkBERT | BERT | MLM, Document Relation Prediction | 110M, 340M | Github
+50 | 2022/04 | BioBART | BART |  Text Infilling, Sentence Permutation  | 140M, 400M | Github
+51 | 2022/05 | bsc-bio-ehr-es | RoBERTa | MLM | 125M | Github
+52 | 2022/05 | PathologyBERT | BERT | MLM, NSP | 110M | Github
+53 | 2022/06 | RadBERT | RoBERTa | MLM | 110M | Github
+54 | 2022/06 | ViHealthBERT | BERT | MLM, NSP, Capitalized Prediction | 110M | Github
+55 | 2022/07 | Clinical Flair | Flair | Character-level Bi-LM | N/A | Github
+56 | 2022/08 | KM-BERT | BERT | MLM, NSP | 99M | Github
+57 | 2022/09 | BioGPT | GPT | Autoregressive Language Model | 347M, 1.5B | Github
+58 | 2022/10 | Bioberturk | BERT | MLM, NSP | N/A | Github
+59 | 2022/10 | DRAGON | GreaseLM | MLM, KG Link Prediction | 360M | Github
+60 | 2022/10 | UCSF-BERT | BERT | MLM, NSP | 135M | Github
+61 | 2022/10 | ViPubmedT5 | ViT5 | Spans-masking learning | 220M | Github
+62 | 2022/12 | ALIBERT | BERT | MLM | 110M | Github
+63 | 2022/12 | BioMedLM | GPT2 | Autoregressive Language Model | 2.7B | Github
+64 | 2022/12 | BioReader | T5 & RETRO | MLM | 229.5M | Github
+65 | 2022/12 | clinicalT5 | T5 | Span-mask Denoising Objective | 220M, 770M | Github
+66 | 2022/12 | Gatortron | BERT | MLM | 8.9B | Github
+67 | 2022/12 | Med-PaLM | Flan-PaLM | Instruction Prompt Tuning | 540B | Github
+68 | 2023/01 | clinical-T5 | T5 | Fill-in-the-blank-style denoising objective | 220M, 770M | Github
+69 | 2023/01 | CPT-BigBird | BigBird | MLM | 166M | Github
+70 | 2023/01 | CPT-Longformer | Longformer | MLM | 149M | Github
+71 | 2023/02 | Bioformer | Bioformer | MLM, NSP | 43M | Github
+72 | 2023/02 | Lightweight | DistilBERT | MLM, Knowledge Distillation | 65M, 25M, 18M, 15M | Github
+73 | 2023/03 | RAMM | PubmedBERT | MLM, Contrastive Learning, Image-Text Matching | N/A | Github
+74 | 2023/04 | DrBERT | RoBERTa | MLM | 110M | Github
+75 | 2023/04 | MOTOR | BLIP | MLM, Contrastive Learning, Image-Text Matching | N/A | Github
+76 | 2023/05 | BiomedGPT | BART backbone + BERT-encoder + GPT-decoder | MLM | 33M, 93M, 182M | Github
+77 | 2023/05 | TurkRadBERT | BERT | MLM, NSP | 110M | Github
+78 | 2023/06 | CamemBERT-bio | BERT | Whole Word MLM | 111M | Github
+79 | 2023/06 | ClinicalGPT | T5 | Supervised Fine Tuning, Rank-based Training | N/A | Github
+80 | 2023/06 | EriBERTa | RoBERTa | MLM | 125M | Github
+81 | 2023/06 | PharmBERT | BERT | MLM | 110M | Github
+82 | 2023/07 | BioNART | BERT | Non-AutoRegressive Model | 110M | Github
+83 | 2023/07 | BIOptimus | BERT | MLM | 110M | Github
+84 | 2023/07 | KEBLM | BERT | MLM, Contrastive Learning, Ranking Objective | N/A | Github
 
 
 ### Chemical SciLMs
