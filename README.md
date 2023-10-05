@@ -112,7 +112,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 ### Chemical SciLMs
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
-1 | 2020/03 | NukeBERT | BERT | MLM, NSP | 110M | Github
+1 | 2020/03 | [NukeBERT](https://arxiv.org/pdf/2003.13821.pdf) | BERT | MLM, NSP | 110M | [Github](https://github.com/ayushjain1144/NukeBERT)
 2 | 2020/10 | ChemBERTa | RoBERTa | MLM | 125M | Github
 3 | 2021/05 | NukeLM | SciBERT, RoBERTa | MLM | 125M, 355M, 110M | Github
 4 | 2021/06 | ChemBERT | RoBERTa | MLM | 110M | Github
