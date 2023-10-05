@@ -1,7 +1,7 @@
 # Awesome PLM for Scientific Text (SciLM)
 
 ## Content
-- Related survey papers
+- [Related survey papers](https://github.com/Alab-NII/Awesome-SciLM/tree/main#related-survey-papers)
 - Existing SciLMs
   - Bio SciLMs
   - Chemical SciLMs
