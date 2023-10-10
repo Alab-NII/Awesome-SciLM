@@ -130,16 +130,17 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 ### Multi-domain SciLMs
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
-1 | 2019/11 | [S2ORC-SciBERT](https://aclanthology.org/2020.acl-main.447/) | BERT | MLM, NSP | 110M | [GitHub](https://github.com/allenai/s2orc) ![](https://img.shields.io/github/stars/allenai/s2orc?style=social)
-2 | 2020/04 | [SPECTER](https://aclanthology.org/2020.acl-main.207/) | BERT | Triple-loss | 110M | [GitHub](https://github.com/allenai/specter) ![](https://img.shields.io/github/stars/allenai/specter?style=social)
-3 | 2021/03 | [OAG-BERT](https://arxiv.org/abs/2103.02410) | BERT | MLM | 110M | [GitHub](https://github.com/THUDM/OAG-BERT) ![](https://img.shields.io/github/stars/THUDM/OAG-BERT?style=social)
-4 | 2022/05 | [ScholarBERT](https://arxiv.org/abs/2205.11342v1) | BERT | MLM | 770M | [HuggingFace](https://huggingface.co/globuslabs/ScholarBERT)
-5 | 2022/06 | [SciDEBERTa](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9791256) | DeBERTa | MLM | N/A | [GitHub](https://github.com/Eunhui-Kim/SciDeBERTa-Fine-Tuning) ![](https://img.shields.io/github/stars/Eunhui-Kim/SciDeBERTa-Fine-Tuning?style=social)
-6 | 2022/09 | [CSL-T5](https://arxiv.org/abs/2209.05034) | T5 | Fill-in-the-blank-style denoising objective | 220M | [GitHub](https://github.com/ydli-ai/CSL) ![](https://img.shields.io/github/stars/ydli-ai/CSL?style=social)
-7 | 2022/10 | [AcademicRoBERTa](https://aclanthology.org/2022.sdp-1.16/) | RoBERTa | MLM | 125M | [GitHub](https://github.com/EhimeNLP/AcademicRoBERTa) ![](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)
-8 | 2022/11 | [Galactica](https://arxiv.org/abs/2211.09085) | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B | [GitHub](https://github.com/paperswithcode/galai) ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social)
-9 | 2022/11 | [VarMAE](https://arxiv.org/abs/2211.00430) | RoBERTa | MLM | 110M | N/A
-10 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | GitHub
+|1|2019/03| [SciBERT](https://aclanthology.org/D19-1371/) (CS + Bio)|BERT|MLM, NSP| 110M | [GitHub](https://github.com/allenai/scibert) ![](https://img.shields.io/github/stars/allenai/scibert?style=social)
+2 | 2019/11 | [S2ORC-SciBERT](https://aclanthology.org/2020.acl-main.447/) | BERT | MLM, NSP | 110M | [GitHub](https://github.com/allenai/s2orc) ![](https://img.shields.io/github/stars/allenai/s2orc?style=social)
+3 | 2020/04 | [SPECTER](https://aclanthology.org/2020.acl-main.207/) | BERT | Triple-loss | 110M | [GitHub](https://github.com/allenai/specter) ![](https://img.shields.io/github/stars/allenai/specter?style=social)
+4 | 2021/03 | [OAG-BERT](https://arxiv.org/abs/2103.02410) | BERT | MLM | 110M | [GitHub](https://github.com/THUDM/OAG-BERT) ![](https://img.shields.io/github/stars/THUDM/OAG-BERT?style=social)
+5 | 2022/05 | [ScholarBERT](https://arxiv.org/abs/2205.11342v1) | BERT | MLM | 770M | [HuggingFace](https://huggingface.co/globuslabs/ScholarBERT)
+6 | 2022/06 | [SciDEBERTa](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9791256) | DeBERTa | MLM | N/A | [GitHub](https://github.com/Eunhui-Kim/SciDeBERTa-Fine-Tuning) ![](https://img.shields.io/github/stars/Eunhui-Kim/SciDeBERTa-Fine-Tuning?style=social)
+7 | 2022/09 | [CSL-T5](https://arxiv.org/abs/2209.05034) | T5 | Fill-in-the-blank-style denoising objective | 220M | [GitHub](https://github.com/ydli-ai/CSL) ![](https://img.shields.io/github/stars/ydli-ai/CSL?style=social)
+8 | 2022/10 | [AcademicRoBERTa](https://aclanthology.org/2022.sdp-1.16/) | RoBERTa | MLM | 125M | [GitHub](https://github.com/EhimeNLP/AcademicRoBERTa) ![](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)
+9 | 2022/11 | [Galactica](https://arxiv.org/abs/2211.09085) | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B | [GitHub](https://github.com/paperswithcode/galai) ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social)
+10 | 2022/11 | [VarMAE](https://arxiv.org/abs/2211.00430) | RoBERTa | MLM | 110M | N/A
+11 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | GitHub
 
 ### Other domains SciLMs
   
