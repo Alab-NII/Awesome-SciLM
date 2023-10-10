@@ -147,14 +147,14 @@ Sorted by Domain-name
 
 No. | Year | Name | Base-model | Objective | #Parameters | Code | Domain
 |---|---| --- |---|---| --- |--- |--- |
-2022/04  |  SecureBERT  |  RoBERTa  |  MLM  |  CP  |  125M  |  GitHub| Cybersecurity
-2022/12  |  CySecBERT  |  BERT  |  MLM, NSP  |  CP  |  110M  | GitHub| Cybersecurity
-2021/05  |  MathBERT (Peng)  |  BERT  |  MLM, Masked Substructure Prediction, Context Correspondence Prediction  |  CP  |  110M  | GitHub| Math
-2021/06  |  MathBERT (Shen)  |  RoBERTa  |  MLM  |  CP  |  110M  | GitHub| Math
-2021/10  |  ClimateBert  |  DistilROBERTA  |  MLM  |  CP  |  66M  | GitHub| Climate
-2020/02  |  SciGPT2  |  GPT2  |  LM  |  CP  |  124M  | GitHub| CS
-2023/06  |  K2  |  LLaMA  |  Cosine Loss  |  CP  |  7B  | GitHub| Geoscience
-2023/03  |  ManuBERT  |  BERT  |  MLM  |  CP  |  110M, 126M  | GitHub| Manufaturing
-2023/01  |  ProtST  |  BERT  |  Masked Protein Modeling, Contrastive Learning, Multi-modal Masked Prediction  |  CP & FS  |  N/A  | GitHub| Protein
-2023/01  |  SciEdBERT  |  BERT  |  MLM  |  CP  |  110M  | GitHub| Science Education
-2022/06  |  SsciBERT  |  BERT  |  MLM, NSP  |  CP  |  110M  | GitHub| Social Science
+1 | 2022/04  |  SecureBERT  |  RoBERTa  |  MLM  |   125M  |  GitHub| Cybersecurity
+2 | 2022/12  |  CySecBERT  |  BERT  |  MLM, NSP  |    110M  | GitHub| Cybersecurity
+3 | 2021/05  |  MathBERT (Peng)  |  BERT  |  MLM, Masked Substructure Prediction, Context Correspondence Prediction  |   110M  | GitHub| Math
+4 | 2021/06  |  MathBERT (Shen)  |  RoBERTa  |  MLM  |    110M  | GitHub| Math
+5 | 2021/10  |  ClimateBert  |  DistilROBERTA  |  MLM  |    66M  | GitHub| Climate
+6 | 2020/02  |  SciGPT2  |  GPT2  |  LM  |    124M  | GitHub| CS
+7 | 2023/06  |  K2  |  LLaMA  |  Cosine Loss  |   7B  | GitHub| Geoscience
+8 | 2023/03  |  ManuBERT  |  BERT  |  MLM  |   110M, 126M  | GitHub| Manufaturing
+9 | 2023/01  |  ProtST  |  BERT  |  Masked Protein Modeling, Contrastive Learning, Multi-modal Masked Prediction  |   N/A  | GitHub| Protein
+10 | 2023/01  |  SciEdBERT  |  BERT  |  MLM  |   110M  | GitHub| Science Education
+11 | 2022/06  |  SsciBERT  |  BERT  |  MLM, NSP   |  110M  | GitHub| Social Science
