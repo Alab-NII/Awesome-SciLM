@@ -143,4 +143,18 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 11 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | GitHub
 
 ### Other domains SciLMs
-  
+Sorted by Domain-name
+
+No. | Year | Name | Base-model | Objective | #Parameters | Code | Domain
+|---|---| --- |---|---| --- |--- |--- |
+2022/04  |  SecureBERT  |  RoBERTa  |  MLM  |  CP  |  125M  |  GitHub| Cybersecurity
+2022/12  |  CySecBERT  |  BERT  |  MLM, NSP  |  CP  |  110M  | GitHub| Cybersecurity
+2021/05  |  MathBERT (Peng)  |  BERT  |  MLM, Masked Substructure Prediction, Context Correspondence Prediction  |  CP  |  110M  | GitHub| Math
+2021/06  |  MathBERT (Shen)  |  RoBERTa  |  MLM  |  CP  |  110M  | GitHub| Math
+2021/10  |  ClimateBert  |  DistilROBERTA  |  MLM  |  CP  |  66M  | GitHub| Climate
+2020/02  |  SciGPT2  |  GPT2  |  LM  |  CP  |  124M  | GitHub| CS
+2023/06  |  K2  |  LLaMA  |  Cosine Loss  |  CP  |  7B  | GitHub| Geoscience
+2023/03  |  ManuBERT  |  BERT  |  MLM  |  CP  |  110M, 126M  | GitHub| Manufaturing
+2023/01  |  ProtST  |  BERT  |  Masked Protein Modeling, Contrastive Learning, Multi-modal Masked Prediction  |  CP & FS  |  N/A  | GitHub| Protein
+2023/01  |  SciEdBERT  |  BERT  |  MLM  |  CP  |  110M  | GitHub| Science Education
+2022/06  |  SsciBERT  |  BERT  |  MLM, NSP  |  CP  |  110M  | GitHub| Social Science
