@@ -140,21 +140,21 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 8 | 2022/10 | [AcademicRoBERTa](https://aclanthology.org/2022.sdp-1.16/) | RoBERTa | MLM | 125M | [GitHub](https://github.com/EhimeNLP/AcademicRoBERTa) ![](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)
 9 | 2022/11 | [Galactica](https://arxiv.org/abs/2211.09085) | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B | [GitHub](https://github.com/paperswithcode/galai) ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social)
 10 | 2022/11 | [VarMAE](https://arxiv.org/abs/2211.00430) | RoBERTa | MLM | 110M | N/A
-11 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | GitHub
+11 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | [GitHub](https://github.com/PeterGriffinJin/Patton) ![](https://img.shields.io/github/stars/PeterGriffinJin/Patton?style=social)
 
 ### Other domains SciLMs
 Sorted by Domain-name
 
 No. | Year | Name | Base-model | Objective | #Parameters | Code | Domain
 |---|---| --- |---|---| --- |--- |--- |
-1 | 2022/04  |  SecureBERT  |  RoBERTa  |  MLM  |   125M  |  GitHub| Cybersecurity
-2 | 2022/12  |  CySecBERT  |  BERT  |  MLM, NSP  |    110M  | GitHub| Cybersecurity
-3 | 2021/05  |  MathBERT (Peng)  |  BERT  |  MLM, Masked Substructure Prediction, Context Correspondence Prediction  |   110M  | GitHub| Math
-4 | 2021/06  |  MathBERT (Shen)  |  RoBERTa  |  MLM  |    110M  | GitHub| Math
-5 | 2021/10  |  ClimateBert  |  DistilROBERTA  |  MLM  |    66M  | GitHub| Climate
-6 | 2020/02  |  SciGPT2  |  GPT2  |  LM  |    124M  | GitHub| CS
-7 | 2023/06  |  K2  |  LLaMA  |  Cosine Loss  |   7B  | GitHub| Geoscience
-8 | 2023/03  |  ManuBERT  |  BERT  |  MLM  |   110M, 126M  | GitHub| Manufaturing
-9 | 2023/01  |  ProtST  |  BERT  |  Masked Protein Modeling, Contrastive Learning, Multi-modal Masked Prediction  |   N/A  | GitHub| Protein
-10 | 2023/01  |  SciEdBERT  |  BERT  |  MLM  |   110M  | GitHub| Science Education
-11 | 2022/06  |  SsciBERT  |  BERT  |  MLM, NSP   |  110M  | GitHub| Social Science
+1 | 2022/04  |  [SecureBERT](https://arxiv.org/abs/2204.02685)  |  RoBERTa  |  MLM  |   125M  |  [GitHub](https://github.com/ehsanaghaei/SecureBERT) ![](https://img.shields.io/github/stars/ehsanaghaei/SecureBERT?style=social) | Cybersecurity
+2 | 2022/12  |  [CySecBERT](https://arxiv.org/abs/2212.02974)  |  BERT  |  MLM, NSP  |    110M  | N/A | Cybersecurity
+3 | 2021/05  |  [MathBERT (Peng)](https://arxiv.org/abs/2105.00377)  |  BERT  |  MLM, Masked Substructure Prediction, Context Correspondence Prediction  |   110M  | N/A | Math
+4 | 2021/06  |  [MathBERT (Shen)](https://arxiv.org/abs/2106.07340)  |  RoBERTa  |  MLM  |    110M  | [GitHub](https://github.com/tbs17/MathBERT) ![](https://img.shields.io/github/stars/tbs17/MathBERT?style=social) | Math
+5 | 2021/10  |  [ClimateBert](https://arxiv.org/abs/2110.12010)  |  DistilROBERTA  |  MLM  |    66M  | [GitHub](https://github.com/climatebert/language-model) ![](https://img.shields.io/github/stars/climatebert/language-model?style=social) | Climate
+6 | 2020/02  |  [SciGPT2](https://aclanthology.org/2021.acl-long.166/)  |  GPT2  |  LM  |    124M  | [GitHub](https://github.com/Kel-Lu/SciGen) ![](https://img.shields.io/github/stars/Kel-Lu/SciGen?style=social) | CS
+7 | 2023/06  |  [K2](https://arxiv.org/abs/2306.05064)  |  LLaMA  |  Cosine Loss  |   7B  | [GitHub](https://github.com/davendw49/k2) ![](https://img.shields.io/github/stars/davendw49/k2?style=social) | Geoscience
+8 | 2023/03  |  [ManuBERT](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375613)  |  BERT  |  MLM  |   110M, 126M  | [HuggingFace](https://huggingface.co/akumar33/ManuBERT) | Manufaturing
+9 | 2023/01  |  [ProtST](https://arxiv.org/abs/2301.12040)  |  BERT  |  Masked Protein Modeling, Contrastive Learning, Multi-modal Masked Prediction  |   N/A  | [GitHub](https://github.com/DeepGraphLearning/ProtST) ![](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?style=social) | Protein
+10 | 2023/01  |  [SciEdBERT](https://arxiv.org/abs/2301.12031)  |  BERT  |  MLM  |   110M  | N/A | Science Education
+11 | 2022/06  |  [SsciBERT](https://arxiv.org/abs/2206.04510)  |  BERT  |  MLM, NSP   |  110M  | [GitHub](https://github.com/S-T-Full-Text-Knowledge-Mining/SSCI-BERT) ![](https://img.shields.io/github/stars/S-T-Full-Text-Knowledge-Mining/SSCI-BERT?style=social) | Social Science
