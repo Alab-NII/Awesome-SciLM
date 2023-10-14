@@ -20,7 +20,7 @@
 
 ## Existing SciLMs
 
-### Bio SciLMs
+### Biomedical Domain
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
 1 | 2019/01 | [BioBERT](https://arxiv.org/abs/1901.08746) | BERT | MLM, NSP | 110M | [GitHub](https://github.com/dmis-lab/biobert) ![](https://img.shields.io/github/stars/dmis-lab/biobert?style=social)
@@ -109,7 +109,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 84 | 2023/07 | [KEBLM](https://blender.cs.illinois.edu/paper/biomedicallm2023.pdf) | BERT | MLM, Contrastive Learning, Ranking Objective | N/A | N/A
 
 
-### Chemical SciLMs
+### Chemical Domain
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
 1 | 2020/03 | [NukeBERT](https://arxiv.org/abs/2003.13821) | BERT | MLM, NSP | 110M | [GitHub](https://github.com/ayushjain1144/NukeBERT) ![](https://img.shields.io/github/stars/ayushjain1144/NukeBERT?style=social)
@@ -127,7 +127,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 13 | 2023/08 | [GIT-Mol](https://arxiv.org/abs/2308.06911) | GIT-Former | Xmodal-Text Matching, Xmodal-Text Contrastive Learning | 700M | N/A
 
 
-### Multi-domain SciLMs
+### Multi-domain
 No. | Year | Name | Base-model | Objective | #Parameters | Code
 |---|---| --- |---|---| --- |--- |
 |1|2019/03| [SciBERT](https://aclanthology.org/D19-1371/) (CS + Bio)|BERT|MLM, NSP| 110M | [GitHub](https://github.com/allenai/scibert) ![](https://img.shields.io/github/stars/allenai/scibert?style=social)
@@ -142,7 +142,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 10 | 2022/11 | [VarMAE](https://arxiv.org/abs/2211.00430) | RoBERTa | MLM | 110M | N/A
 11 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | [GitHub](https://github.com/PeterGriffinJin/Patton) ![](https://img.shields.io/github/stars/PeterGriffinJin/Patton?style=social)
 
-### Other domains SciLMs
+### Other Scientific Domains
 Sorted by Domain-name
 
 No. | Year | Name | Base-model | Objective | #Parameters | Code | Domain
