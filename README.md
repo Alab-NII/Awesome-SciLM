@@ -1,12 +1,12 @@
 # Awesome PLM for Scientific Text (SciLM)
 
-## Content
+## Table of Contents
 - [Related survey papers](https://github.com/Alab-NII/Awesome-SciLM/tree/main#related-survey-papers)
 - [Existing SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#existing-scilms)
-  - [Bio SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#bio-scilms)
-  - [Chemical SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#chemical-scilms)
-  - [Multi-domain SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#multi-domain-scilms)
-  - [Other domains SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#other-domains-scilms)
+  - [Biomedical Domain](https://github.com/Alab-NII/Awesome-SciLM/tree/main#biomedical-domain)
+  - [Chemical Domain](https://github.com/Alab-NII/Awesome-SciLM/tree/main#chemical-domain)
+  - [Multi-domain](https://github.com/Alab-NII/Awesome-SciLM/tree/main#multi-domain)
+  - [Other Scientific Domains](https://github.com/Alab-NII/Awesome-SciLM/tree/main#other-scientific-domains)
 - Awesome scientific datasets
 
 ## Related survey papers
