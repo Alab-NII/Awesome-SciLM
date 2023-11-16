@@ -125,6 +125,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 11 | 2022/09 | [ChemBERTa-2](https://arxiv.org/abs/2209.01712) | RoBERTa | MLM, Multi-task Regression | 125M | [GitHub](https://github.com/seyonechithrananda/bert-loves-chemistry) ![](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry?style=social)
 12 | 2022/09 | [MaterialBERT (Yoshitake)](https://mdr.nims.go.jp/concern/publications/pc289n449?locale=en) | BERT | MLM, NSP | 110M | [MDR](https://mdr.nims.go.jp/concern/publications/pc289n449?locale=en)
 13 | 2023/08 | [GIT-Mol](https://arxiv.org/abs/2308.06911) | GIT-Former | Xmodal-Text Matching, Xmodal-Text Contrastive Learning | 700M | N/A
+13 | 2023/08 | [MolCA](https://arxiv.org/abs/2310.12798) | Galactica | Molecule Captioning, Molecule-Text Contrastive Learning | 1.4B | [GitHub](https://github.com/acharkq/MolCA) ![](https://img.shields.io/github/stars/acharkq/MolCA?style=social)
 
 
 ### Multi-domain
