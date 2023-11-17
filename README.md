@@ -124,7 +124,8 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 10 | 2022/08 | [ProcessBERT](https://www.sciencedirect.com/science/article/pii/S2405896322009740) | BERT | MLM, NSP | 110M | N/A
 11 | 2022/09 | [ChemBERTa-2](https://arxiv.org/abs/2209.01712) | RoBERTa | MLM, Multi-task Regression | 125M | [GitHub](https://github.com/seyonechithrananda/bert-loves-chemistry) ![](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry?style=social)
 12 | 2022/09 | [MaterialBERT (Yoshitake)](https://mdr.nims.go.jp/concern/publications/pc289n449?locale=en) | BERT | MLM, NSP | 110M | [MDR](https://mdr.nims.go.jp/concern/publications/pc289n449?locale=en)
-13 | 2023/08 | [GIT-Mol](https://arxiv.org/abs/2308.06911) | GIT-Former | Xmodal-Text Matching, Xmodal-Text Contrastive Learning | 700M | N/A
+13 | 2023/02 | [MolGen](https://arxiv.org/abs/2301.11259) | BART | Seq2Seq MLM, Autoregressive Language Modeling | 460M, 7B | [Github](https://github.com/zjunlp/MolGen)![](https://img.shields.io/github/stars/zjunlp/MolGen?style=social)
+14 | 2023/08 | [GIT-Mol](https://arxiv.org/abs/2308.06911) | GIT-Former | Xmodal-Text Matching, Xmodal-Text Contrastive Learning | 700M | N/A
 
 
 ### Multi-domain
