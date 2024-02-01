@@ -3,7 +3,7 @@
 Resources for the paper: [A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/abs/2401.17824)
 
 ## The Evolutionary tree of SciLMs
-
+![A tree file](tree.pdf)
 
 ## Table of Contents
 - [Related survey papers](https://github.com/Alab-NII/Awesome-SciLM/tree/main#related-survey-papers)
