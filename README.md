@@ -1,5 +1,10 @@
 # Awesome PLM for Scientific Text (SciLM)
 
+Resources for the paper: [A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/abs/2401.17824)
+
+## The Evolutionary tree of SciLMs
+
+
 ## Table of Contents
 - [Related survey papers](https://github.com/Alab-NII/Awesome-SciLM/tree/main#related-survey-papers)
 - [Existing SciLMs](https://github.com/Alab-NII/Awesome-SciLM/tree/main#existing-scilms)
