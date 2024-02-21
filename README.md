@@ -112,6 +112,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 82 | 2023/07 | [BioNART](https://aclanthology.org/2023.bionlp-1.34/) | BERT | Non-AutoRegressive Model | 110M | [GitHub](https://github.com/aistairc/BioNART) ![](https://img.shields.io/github/stars/aistairc/BioNART?style=social)
 83 | 2023/07 | [BIOptimus](https://aclanthology.org/2023.bionlp-1.31/) | BERT | MLM | 110M | [GitHub](https://github.com/rttl-ai/bioptimus) ![](https://img.shields.io/github/stars/rttl-ai/bioptimus?style=social)
 84 | 2023/07 | [KEBLM](https://blender.cs.illinois.edu/paper/biomedicallm2023.pdf) | BERT | MLM, Contrastive Learning, Ranking Objective | N/A | N/A
+85 | 2023/09 | [CPLLM](https://arxiv.org/abs/2302.04725) | Llama2 | Autoregressive Language Model,  Supervised Fine Tuning | 13B | [GitHub](https://github.com/nadavlab/CPLLM) ![](https://img.shields.io/github/stars/nadavlab/CPLLM?style=social)
 
 
 ### Chemical Domain
