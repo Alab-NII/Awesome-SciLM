@@ -149,7 +149,7 @@ No. | Year | Name | Base-model | Objective | #Parameters | Code
 8 | 2022/10 | [AcademicRoBERTa](https://aclanthology.org/2022.sdp-1.16/) | RoBERTa | MLM | 125M | [GitHub](https://github.com/EhimeNLP/AcademicRoBERTa) ![](https://img.shields.io/github/stars/EhimeNLP/AcademicRoBERTa?style=social)
 9 | 2022/11 | [Galactica](https://arxiv.org/abs/2211.09085) | GPT | Autoregressive Language Model | 125M, 1.3B, 6.7B, 30B, 120B | [GitHub](https://github.com/paperswithcode/galai) ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social)
 10 | 2022/11 | [VarMAE](https://arxiv.org/abs/2211.00430) | RoBERTa | MLM | 110M | N/A
-11 | 2022/12 | [SciBART](https://arxiv.org/abs/2212.10233) | BART | MLM | 124M, 386M | [Github](https://github.com/uclanlp/DeepKPG)![](https://github.com/uclanlp/DeepKPG?style=social)
+11 | 2022/12 | [SciBART](https://arxiv.org/abs/2212.10233) | BART | MLM | 124M, 386M | [Github](https://github.com/uclanlp/DeepKPG)![](https://img.shields.io/github/stars/uclanlp/DeepKPG?style=social)
 12 | 2023/05 | [Patton](https://arxiv.org/abs/2305.12268) | GNN + BERT | Network-contextualized MLM, Masked Node Prediction | N/A | [GitHub](https://github.com/PeterGriffinJin/Patton) ![](https://img.shields.io/github/stars/PeterGriffinJin/Patton?style=social)
 
 ### Other Scientific Domains
